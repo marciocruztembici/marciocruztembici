@@ -46,6 +46,6 @@ Sou um profissional com mais de 20 anos de experiência em tecnologia, especiali
 
 ---
 
-> _"Não é apenas sobre tecnologia, é sobre pessoas, confiança e transformação."_  
+> _"Não é apenas sobre tecnologia, é sobre pessoas, confiança e transformação. É sobre Jesus"_  
 > — Márcio Ribeiro
 
