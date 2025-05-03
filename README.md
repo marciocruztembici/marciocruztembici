@@ -1,8 +1,8 @@
+![Banner Márcio Ribeiro da Cruz](https://github.com/marciocruztembici/marciocruztembici/blob/main/fdbfe100-48e1-4bfc-b55a-a64dceed250f.png)
+
 # 👋 Olá, eu sou o Márcio Ribeiro da Cruz
 
 🎯 **Arquiteto de Software | Blockchain | Cloud | IOT | Golang | TypeScript**
-
-![Banner Márcio Ribeiro da Cruz]](https://github.com/marciocruztembici/marciocruztembici/blob/main/fdbfe100-48e1-4bfc-b55a-a64dceed250f.png)
 
 Sou um profissional com mais de 28 anos de experiência em tecnologia, especializado em Blockchain, contratos inteligentes (Solidity), sistemas distribuídos, arquitetura de software escalável e computação em nuvem.
 
