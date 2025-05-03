@@ -37,6 +37,18 @@ Sou um profissional com mais de 28 anos de experiência em tecnologia, especiali
 
 ---
 
+## 🧱 Metodologias de Arquitetura e Documentação
+
+Estudo e aplico metodologias que ajudam a estruturar e comunicar arquiteturas robustas, seguras e alinhadas ao negócio:
+
+- 📐 [C4 Model](https://c4model.com/) – Visualização clara da arquitetura em diferentes níveis de detalhe.
+- 🧭 [TOGAF](https://www.opengroup.org/togaf) – Framework de governança e estruturação da arquitetura corporativa.
+- 🧩 [DDD (Domain-Driven Design)](https://aws.amazon.com/blogs/architecture/getting-started-with-domain-driven-design-ddd/) – Modelagem focada no domínio e nos especialistas (guia do CodeGuru).
+- 📘 [ADR (Architectural Decision Records)](https://adr.github.io/) – Registro estruturado das decisões arquiteturais ao longo do tempo.
+- 🧪 [ATAM (Architecture Tradeoff Analysis Method)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=51159) – Avaliação de trade-offs e riscos de arquitetura com foco em atributos de qualidade.
+
+---
+
 ## 📬 Como me encontrar
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcioribeirodacruz)
