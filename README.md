@@ -36,10 +36,6 @@ Sou um profissional com mais de 28 anos de experiência em tecnologia, especiali
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marciocruztembici&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciocruztembici&layout=compact&theme=dark)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=marciocruztembici&theme=github-dark)
-
-![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=marciocruztembici&theme=darkhub&column=4)
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
