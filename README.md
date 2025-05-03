@@ -58,6 +58,48 @@ Estudo e aplico metodologias que ajudam a estruturar e comunicar arquiteturas ro
 
 ---
 
+## 📚 Referências
+
+### Linguagens
+- [Go](https://go.dev/)
+- [Hardhat](https://hardhat.org/)
+- [Foundry](https://book.getfoundry.sh/)
+- [Solidity](https://docs.soliditylang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Java](https://dev.java/)
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [Rust](https://www.rust-lang.org/)
+- [Node.js](https://nodejs.org/en)
+
+### Blockchain & Web3
+- [Ethereum](https://ethereum.org/)
+- [Polygon](https://polygon.technology/)
+- [Gnosis Chain](https://www.gnosis.io/)
+- [Binance Smart Chain (BSC)](https://www.bnbchain.org/)
+- [Solana](https://solana.com/)
+- [Ripple](https://ripple.com/)
+- [IPFS](https://ipfs.tech/)
+- [CCXT](https://github.com/ccxt/ccxt)
+
+### DevOps e Infraestrutura
+- [Docker](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
+- [Terraform](https://www.terraform.io/)
+- [Helm](https://helm.sh/)
+- [AWS](https://aws.amazon.com/)
+- [Google Cloud (GCP)](https://cloud.google.com/)
+- [Microsoft Azure](https://azure.microsoft.com/)
+- [Cloudflare](https://www.cloudflare.com/)
+- [Vercel](https://vercel.com/)
+
+### Bancos de Dados
+- [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [DynamoDB](https://aws.amazon.com/dynamodb/)
+- [MySQL](https://www.mysql.com/)
+
+---
+
 > _"Não é apenas sobre tecnologia, é sobre pessoas, confiança e transformação. É sobre Jesus"_  
 > — Márcio Ribeiro
 
