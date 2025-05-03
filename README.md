@@ -2,7 +2,7 @@
 
 🎯 **Arquiteto de Software | Blockchain | Cloud | IOT | Golang | TypeScript**
 
-Sou um profissional com mais de 20 anos de experiência em tecnologia, especializado em Blockchain, contratos inteligentes (Solidity), sistemas distribuídos, arquitetura de software escalável e computação em nuvem.
+Sou um profissional com mais de 28 anos de experiência em tecnologia, especializado em Blockchain, contratos inteligentes (Solidity), sistemas distribuídos, arquitetura de software escalável e computação em nuvem.
 
 ---
 
