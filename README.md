@@ -1,4 +1,4 @@
-![Banner Márcio Ribeiro da Cruz](https://github.com/marciocruztembici/marciocruztembici/blob/main/fdbfe100-48e1-4bfc-b55a-a64dceed250f.png)
+
 
 # 👋 Olá, eu sou o Márcio Ribeiro da Cruz
 
@@ -26,6 +26,34 @@ Sou um profissional com mais de 28 anos de experiência em tecnologia, especiali
 - Banco de Dados: `SQL Server`, `Oracle`, `PostgreSQL`, `MongoDB`, `DynamoDB`, `MySQL`
 - Infraestrutura: `AWS`, `GCP`, `Azure`, `Vercel`, `Cloudflare`, `Digital Ocean`, `Heroku`
 - Outras stacks: `NestJS`, `Next.js`, `React`, `Electron`, `IPFS`, `CCXT`, `C++`, `PHP`
+
+---
+
+## 🧭 Estatísticas e Atividades
+
+![Visitantes](https://komarev.com/ghpvc/?username=marciocruztembici&color=blue)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marciocruztembici&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciocruztembici&layout=compact&theme=dark)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=marciocruztembici&theme=github-dark)
+
+![Troféus GitHub](https://github-profile-trophy.vercel.app/?username=marciocruztembici&theme=darkhub&column=4)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p style="display: flex; gap: 10px;">
+  <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a>
+  <a href="https://docs.soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a>
+</p>
 
 ---
 
